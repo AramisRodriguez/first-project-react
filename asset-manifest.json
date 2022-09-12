@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AramisRodriguez.github.io/first-project-react/static/css/main.006de580.css",
+    "main.js": "/AramisRodriguez.github.io/first-project-react/static/js/main.c5049754.js",
+    "index.html": "/AramisRodriguez.github.io/first-project-react/index.html",
+    "main.006de580.css.map": "/AramisRodriguez.github.io/first-project-react/static/css/main.006de580.css.map",
+    "main.c5049754.js.map": "/AramisRodriguez.github.io/first-project-react/static/js/main.c5049754.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.006de580.css",
+    "static/js/main.c5049754.js"
+  ]
+}
